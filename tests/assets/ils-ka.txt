@@ -1,0 +1,35 @@
+----------------------------  EINSATZORT  ----------------------------
+
+ Straße                 : Musterstraße 1
+ Ort                      : 12345 Musterhausen
+ Ortsteil                : Beispielsdorf
+ Objekt                 : Musterhaus
+ Einsatzplan         : Muster123
+ Einsatznummer : T 123456 1234
+
+  ----------------  Einsatzstelle Google Maps GPS -----------------
+
+https://www.google.de/maps/place/51.9899684,11.7562839
+
+ -------------------------  EINSATZGRUND  --------------------------
+
+ Schlagwort   :  Musterfax
+ Stichwort      :  / Musterwort /  /
+
+ --------------------------  EINSATZMITTEL --------------------------
+
+ MH 23 (S3:  Uhr)
+ MH 13 (S3:  Uhr)
+
+ ---------------------------  BEMERKUNG  ---------------------------
+
+ Muster Bemerkung
+ 
+-------------------- Alarmmail der ILS Karlsruhe -------------------
+
+ Absender : ILS KARLSRUHE  
+ Tel             : 0123/456789
+ Fax            : 0123/456789
+ Mail           : muster@muster.muster
+
+ ----------------------------  ENDE MAIL   ----------------------------
